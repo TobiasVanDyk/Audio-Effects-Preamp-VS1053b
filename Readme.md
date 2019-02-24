@@ -9,7 +9,7 @@ This is a fully functional audio effects preamp using the VLSI VS1053b Audio DSP
 
 ### Construction and Parts List
 
-<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/Audio Effects34.jpg" width="1100" height="1058" />
+<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/Audio Effects34.jpg" width="1100" height="900" />
 
 The preamp has three pushbuttons - a function select button and two buttons to increase and decrease the selected function value. It also uses a potentiometer as a volume control, or it can be used to set values for the five effects parameters. These effects parameters are modulation speed and depth (used in chorus, phaser, and flanging effects), or delay time and repetition (used in echo and reverb effects). The fifth parameter is used to set the ratio of the direct to processed audio path. 
 
