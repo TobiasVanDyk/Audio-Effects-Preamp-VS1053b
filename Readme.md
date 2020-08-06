@@ -9,7 +9,7 @@ This is a fully functional audio effects preamp using the VLSI VS1053b Audio DSP
 
 ### Construction and Parts List
 
-<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/Audio Effects34.jpg" width="1100" height="900" />
+<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/images/AudioEffects34.jpg" width="1100" />
 
 The preamp has three pushbuttons - a function select button and two buttons to increase and decrease the selected function value. It also uses a potentiometer as a volume control, or it can be used to set values for the five effects parameters. These effects parameters are modulation speed and depth (used in chorus, phaser, and flanging effects), or delay time and repetition (used in echo and reverb effects). The fifth parameter is used to set the ratio of the direct to processed audio path. 
 
@@ -17,7 +17,7 @@ The function select button cycles through: (1) Effects select (0 to 9), (2) Volu
 
 The Adafruit VS1053 Breakout board is recommended but the Sparkfun Board can also be used provided two jumper wires are soldered to pins 1 and 48 of the IC package. These will then be used as Line In2 and Line In1. 
 
-<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/AudioEffects1a.jpg" width="800" height="737" />
+<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/images/AudioEffects1a.jpg" width="800" />
 
 ### Parts List:
 
