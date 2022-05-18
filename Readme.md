@@ -1,6 +1,10 @@
 # Audio Effects Preamp with the VS1053b
 
 Instructable at [**Audio Effects Preamp VS1053b**](https://www.instructables.com/id/Audio-Effects-Preamp-With-VS1053b/).
+
+[**Teensy 3.6 and Teensy 4.1 replacing the ATMega328**](https://github.com/TobiasVanDyk/VS1053B-Teensy-36-and-41-Music-Effects) used in the orginal project.
+
+<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/images/Teensy36and41.jpg" width="600" />
  
 ### Introduction: 
 
@@ -17,7 +21,7 @@ The function select button cycles through: (1) Effects select (0 to 9), (2) Volu
 
 The Adafruit VS1053 Breakout board is recommended but the Sparkfun Board can also be used provided two jumper wires are soldered to pins 1 and 48 of the IC package. These will then be used as Line In2 and Line In1. 
 
-<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/images/AudioEffects1a.jpg" width="800" />
+<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/images/AudioEffects1a.jpg" width="600" />
 
 ### Parts List:
 
