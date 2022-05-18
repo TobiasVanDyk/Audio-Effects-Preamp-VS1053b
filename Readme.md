@@ -4,7 +4,7 @@ Instructable at [**Audio Effects Preamp VS1053b**](https://www.instructables.com
 
 [**Teensy 3.6 and Teensy 4.1 replacing the ATMega328**](https://github.com/TobiasVanDyk/VS1053B-Teensy-36-and-41-Music-Effects) used in the orginal project.
 
-<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/images/Teensy36and41.jpg" width="600" />
+<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/images/Teensy36and41.jpg" width="500" />
  
 ### Introduction: 
 
@@ -13,7 +13,7 @@ This is a fully functional audio effects preamp using the VLSI VS1053b Audio DSP
 
 ### Construction and Parts List
 
-<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/images/AudioEffects34.jpg" width="1100" />
+<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/images/AudioEffects34.jpg" width="1000" />
 
 The preamp has three pushbuttons - a function select button and two buttons to increase and decrease the selected function value. It also uses a potentiometer as a volume control, or it can be used to set values for the five effects parameters. These effects parameters are modulation speed and depth (used in chorus, phaser, and flanging effects), or delay time and repetition (used in echo and reverb effects). The fifth parameter is used to set the ratio of the direct to processed audio path. 
 
@@ -21,7 +21,7 @@ The function select button cycles through: (1) Effects select (0 to 9), (2) Volu
 
 The Adafruit VS1053 Breakout board is recommended but the Sparkfun Board can also be used provided two jumper wires are soldered to pins 1 and 48 of the IC package. These will then be used as Line In2 and Line In1. 
 
-<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/images/AudioEffects1a.jpg" width="600" />
+<img src="https://github.com/TobiasVanDyk/Audio-Effects-Preamp-VS1053b/blob/master/images/AudioEffects1a.jpg" width="500" />
 
 ### Parts List:
 
