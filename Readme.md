@@ -59,7 +59,7 @@ Credit is given to all the persons and entities mentioned for their code and lib
 
 1. VLSI: http://www.vlsi.fi/en/home.html
 2. Adafruit:  https://www.adafruit.com/product/1381
-3. Github VS1053b:  https://www.adafruit.com/product/1381
+3. Github VS1053b:  https://github.com/adafruit/Adafruit_VS1053_Library
 4. Github Graphics:  https://www.adafruit.com/product/1381
 5. Oled:  https://www.adafruit.com/product/1381
 6. Sparkfun:  https://www.sparkfun.com/products/12660
